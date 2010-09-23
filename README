@@ -1,0 +1,10 @@
+Functional geometry experiments.
+
+Inspired by work done by Frank Buss and Peter Henderson.
+
+See 
+    http://www.frank-buss.de/lisp/functional.html
+    http://www.ecs.soton.ac.uk/~ph/funcgeo.pdf
+    http://www.ecs.soton.ac.uk/~ph/papers/funcgeo2.pdf
+
+This work aims to introduce color as well as more functions for combining pictures.
